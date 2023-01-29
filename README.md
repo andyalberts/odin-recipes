@@ -1,2 +1,2 @@
 # odin-recipes
-html website
+Recipe section of The Odin Project courses
